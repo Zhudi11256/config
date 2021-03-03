@@ -1,4 +1,8 @@
 {
-  "valid": true
-  
+  "valid": true,
+  "api": [
+    "http://167.179.79.76:8080",
+    "http://172.20.10.2"
+  ],
+  "desKey": ""
 }
