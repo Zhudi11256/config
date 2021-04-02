@@ -1,9 +1,8 @@
 {
   "valid": true,
   "api": [
-    "http://172.20.10.2",
-    "http://192.168.43.11"
+    "https://api.xunhuan.app"
   ],
-  "errorPage": "https://baidu.com",
+  "errorPage": "https://www.xunhuan.app/notice.html",
   "desKey": "d02280767fbe11eb8a3900fff8633c98"
 }
